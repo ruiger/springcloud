@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/ruiger/config-repo.git
+          username: 583260221@qq.com
+          password: yeyi123
+
+server:
+  port: 2201
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:2001/eureka

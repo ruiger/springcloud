@@ -47,7 +47,7 @@
             <dependency>
                 <groupId>com.fasterxml.jackson.core</groupId>
                 <artifactId>jackson-databind</artifactId>
-                <version>2.8.11</version><!-- 安全指导书上建议用2.8.11或2.9.5的版本 -->
+                <version>2.9.10.3</version><!-- 安全指导书上建议用2.8.11或2.9.5的版本 -->
             </dependency>
             <dependency>
                 <groupId>org.apache.httpcomponents</groupId>

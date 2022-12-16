@@ -42,7 +42,7 @@
                 <groupId>org.springframework</groupId>
                 <artifactId>spring-webmvc</artifactId>
                 <!-- 				<version>4.3.13.RELEASE</version> -->
-                <version>4.3.15.RELEASE</version><!-- 安全指导书上建议用4.3.15或5.0.5的版本 -->
+                <version>5.2.20.RELEASE</version><!-- 安全指导书上建议用4.3.15或5.0.5的版本 -->
             </dependency>
             <dependency>
                 <groupId>com.fasterxml.jackson.core</groupId>
